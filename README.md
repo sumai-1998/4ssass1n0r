@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4ssass1n0r
 - 👀 I’m interested in NLP, stock, AI
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning NLP，3D reconstruction
 - 💞️ I’m looking to collaborate on Nlp papers
 - 📫 How to reach me carasumi@163.com
 
